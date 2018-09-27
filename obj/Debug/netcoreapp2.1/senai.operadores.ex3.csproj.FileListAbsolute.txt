@@ -1,0 +1,11 @@
+C:\Users\50981737870\senai.operadores.ex3\bin\Debug\netcoreapp2.1\senai.operadores.ex3.deps.json
+C:\Users\50981737870\senai.operadores.ex3\bin\Debug\netcoreapp2.1\senai.operadores.ex3.runtimeconfig.json
+C:\Users\50981737870\senai.operadores.ex3\bin\Debug\netcoreapp2.1\senai.operadores.ex3.runtimeconfig.dev.json
+C:\Users\50981737870\senai.operadores.ex3\bin\Debug\netcoreapp2.1\senai.operadores.ex3.dll
+C:\Users\50981737870\senai.operadores.ex3\bin\Debug\netcoreapp2.1\senai.operadores.ex3.pdb
+C:\Users\50981737870\senai.operadores.ex3\obj\Debug\netcoreapp2.1\senai.operadores.ex3.csprojAssemblyReference.cache
+C:\Users\50981737870\senai.operadores.ex3\obj\Debug\netcoreapp2.1\senai.operadores.ex3.csproj.CoreCompileInputs.cache
+C:\Users\50981737870\senai.operadores.ex3\obj\Debug\netcoreapp2.1\senai.operadores.ex3.AssemblyInfoInputs.cache
+C:\Users\50981737870\senai.operadores.ex3\obj\Debug\netcoreapp2.1\senai.operadores.ex3.AssemblyInfo.cs
+C:\Users\50981737870\senai.operadores.ex3\obj\Debug\netcoreapp2.1\senai.operadores.ex3.dll
+C:\Users\50981737870\senai.operadores.ex3\obj\Debug\netcoreapp2.1\senai.operadores.ex3.pdb
